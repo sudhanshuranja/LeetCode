@@ -1,49 +1,53 @@
 /**
  * Definition for singly-linked list.
  * struct ListNode {
- * int val;
- * ListNode *next;
- * ListNode() : val(0), next(nullptr) {}
- * ListNode(int x) : val(x), next(nullptr) {}
- * ListNode(int x, ListNode *next) : val(x), next(next) {}
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
 class Solution {
 public:
     ListNode* reverseKGroup(ListNode* head, int k) {
         if (!head || k == 1) return head;
 
-        // Dummy node acts as a permanent anchor before the head
+        // Dummy node helps handle head changes easily
         ListNode* dummy = new ListNode(0);
         dummy->next = head;
-        
-        ListNode* prevGroupTail = dummy;
-        
+
+        ListNode* prevGroupEnd = dummy;
+
         while (true) {
-            // Check if there are k nodes available to reverse
-            ListNode* kth = prevGroupTail;
-            for (int i = 0; i < k; ++i) {
+            // Step 1: Check if k nodes exist
+            ListNode* kth = prevGroupEnd;
+            for (int i = 0; i < k && kth; i++) {
                 kth = kth->next;
-                if (!kth) return dummy->next; // Fewer than k nodes remain
             }
-            
-            // Pointers for reversal
-            ListNode* groupStart = prevGroupTail->next;
-            ListNode* nextGroupHead = kth->next;
-            
-            // Standard iterative reversal of the k-node segment
-            ListNode* prev = nextGroupHead;
+            if (!kth) break; // less than k nodes left
+
+            // Step 2: Reverse k nodes
+            ListNode* groupStart = prevGroupEnd->next;
+            ListNode* nextGroupStart = kth->next;
+
+            // Reverse linked list from groupStart to kth
+            ListNode* prev = nextGroupStart;
             ListNode* curr = groupStart;
-            for (int i = 0; i < k; ++i) {
-                ListNode* tmp = curr->next;
+
+            while (curr != nextGroupStart) {
+                ListNode* nxt = curr->next;
                 curr->next = prev;
                 prev = curr;
-                curr = tmp;
+                curr = nxt;
             }
-            
-            // Connect the previous group to the new head of the reversed group
-            prevGroupTail->next = kth;
-            prevGroupTail = groupStart; // Original start is now the tail
+
+            // Step 3: Connect reversed group back
+            prevGroupEnd->next = kth;
+            prevGroupEnd = groupStart;
         }
+
+        return dummy->next;
     }
 };
