@@ -4,19 +4,19 @@ public:
         int i = a.size() - 1;
         int j = b.size() - 1;
         int carry = 0;
-        string result = "";
+        string ans = "";
 
-        while (i >= 0 || j >= 0 || carry) {
-            int bitA = (i >= 0) ? a[i--] - '0' : 0;
-            int bitB = (j >= 0) ? b[j--] - '0' : 0;
+        while(i >= 0 || j >= 0 || carry) {
+            int sum = carry;
 
-            // same logic as your code
-            int sum = bitA ^ bitB ^ carry;          // XOR
-            carry = (bitA & bitB) | (carry & (bitA ^ bitB)); // AND + shift idea
+            if(i >= 0) sum += (a[i--] - '0');
+            if(j >= 0) sum += (b[j--] - '0');
 
-            result = char(sum + '0') + result;
+            ans.push_back((sum % 2) + '0');
+            carry = sum / 2;
         }
 
-        return result;
+        reverse(ans.begin(), ans.end());
+        return ans;
     }
 };
