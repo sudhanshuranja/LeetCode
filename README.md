@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0033-search-in-rotated-sorted-array/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0704-binary-search](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0912-sort-an-array/) | Medium |
 | [0932-beautiful-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0932-beautiful-array/) | Medium |
@@ -81,4 +83,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0633-sum-of-square-numbers](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0633-sum-of-square-numbers/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 <!---LeetCode Topics End-->
