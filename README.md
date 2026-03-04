@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0932-beautiful-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0932-beautiful-array/) | Medium |
 | [0941-valid-mountain-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0941-valid-mountain-array/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1705-maximum-number-of-eaten-apples](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1705-maximum-number-of-eaten-apples/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0912-sort-an-array/) | Medium |
+| [1705-maximum-number-of-eaten-apples](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1705-maximum-number-of-eaten-apples/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0316-remove-duplicate-letters/) | Medium |
+| [1705-maximum-number-of-eaten-apples](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1705-maximum-number-of-eaten-apples/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
