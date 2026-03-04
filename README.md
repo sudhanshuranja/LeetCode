@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0595-big-countries](https://github.com/sudhanshuranja/LeetCode/tree/main/MySQL/Easy/0595-big-countries/) | Easy |
+| [1148-article-views-i](https://github.com/sudhanshuranja/LeetCode/tree/main/MySQL/Easy/1148-article-views-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
