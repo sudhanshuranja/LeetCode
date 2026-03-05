@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1507-reformat-date](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1507-reformat-date/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1668-maximum-repeating-substring](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1668-maximum-repeating-substring/) | Easy |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
