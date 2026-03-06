@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0316-remove-duplicate-letters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1392-longest-happy-prefix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/1392-longest-happy-prefix/) | Hard |
 | [1507-reformat-date](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1507-reformat-date/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1668-maximum-repeating-substring](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1668-maximum-repeating-substring/) | Easy |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0214-shortest-palindrome/) | Hard |
+| [1392-longest-happy-prefix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/1392-longest-happy-prefix/) | Hard |
 | [1668-maximum-repeating-substring](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1668-maximum-repeating-substring/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -192,8 +194,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0214-shortest-palindrome/) | Hard |
+| [1392-longest-happy-prefix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/1392-longest-happy-prefix/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0214-shortest-palindrome/) | Hard |
+| [1392-longest-happy-prefix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/1392-longest-happy-prefix/) | Hard |
 <!---LeetCode Topics End-->
