@@ -214,4 +214,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2223-sum-of-scores-of-built-strings](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2223-sum-of-scores-of-built-strings/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0077-combinations](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0077-combinations/) | Medium |
 <!---LeetCode Topics End-->
