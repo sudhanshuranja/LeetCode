@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1668-maximum-repeating-substring](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1668-maximum-repeating-substring/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [2223-sum-of-scores-of-built-strings](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2223-sum-of-scores-of-built-strings/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
+| [2223-sum-of-scores-of-built-strings](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2223-sum-of-scores-of-built-strings/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0214-shortest-palindrome](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0214-shortest-palindrome/) | Hard |
 | [1392-longest-happy-prefix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/1392-longest-happy-prefix/) | Hard |
 | [1668-maximum-repeating-substring](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1668-maximum-repeating-substring/) | Easy |
+| [2223-sum-of-scores-of-built-strings](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2223-sum-of-scores-of-built-strings/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -195,9 +198,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0214-shortest-palindrome/) | Hard |
 | [1392-longest-happy-prefix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/1392-longest-happy-prefix/) | Hard |
+| [2223-sum-of-scores-of-built-strings](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2223-sum-of-scores-of-built-strings/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0214-shortest-palindrome/) | Hard |
 | [1392-longest-happy-prefix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/1392-longest-happy-prefix/) | Hard |
+| [2223-sum-of-scores-of-built-strings](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2223-sum-of-scores-of-built-strings/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2223-sum-of-scores-of-built-strings](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2223-sum-of-scores-of-built-strings/) | Hard |
 <!---LeetCode Topics End-->
