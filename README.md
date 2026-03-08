@@ -274,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0797-all-paths-from-source-to-target/) | Medium |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [2076-process-restricted-friend-requests](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2076-process-restricted-friend-requests/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
