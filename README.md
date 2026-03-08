@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [1980-find-unique-binary-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1980-find-unique-binary-string/) | Medium |
 | [2223-sum-of-scores-of-built-strings](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2223-sum-of-scores-of-built-strings/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1705-maximum-number-of-eaten-apples](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1705-maximum-number-of-eaten-apples/) | Medium |
+| [1980-find-unique-binary-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1980-find-unique-binary-string/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0952-largest-component-size-by-common-factor/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1980-find-unique-binary-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1980-find-unique-binary-string/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -253,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0093-restore-ip-addresses](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0093-restore-ip-addresses/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0797-all-paths-from-source-to-target/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
+| [1980-find-unique-binary-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1980-find-unique-binary-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
