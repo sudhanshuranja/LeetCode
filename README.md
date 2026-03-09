@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0215-kth-largest-element-in-an-array/) | Medium |
+| [0743-network-delay-time](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0743-network-delay-time/) | Medium |
 | [0912-sort-an-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0912-sort-an-array/) | Medium |
 | [1705-maximum-number-of-eaten-apples](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1705-maximum-number-of-eaten-apples/) | Medium |
 ## Quickselect
@@ -281,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0463-island-perimeter](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0463-island-perimeter/) | Easy |
+| [0743-network-delay-time](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0743-network-delay-time/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0797-all-paths-from-source-to-target/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -289,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0463-island-perimeter](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0463-island-perimeter/) | Easy |
+| [0743-network-delay-time](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0743-network-delay-time/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0797-all-paths-from-source-to-target/) | Medium |
 | [0815-bus-routes](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0815-bus-routes/) | Hard |
 | [1129-shortest-path-with-alternating-colors](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1129-shortest-path-with-alternating-colors/) | Medium |
@@ -300,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0743-network-delay-time/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0797-all-paths-from-source-to-target/) | Medium |
 | [1129-shortest-path-with-alternating-colors](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1311-get-watched-videos-by-your-friends/) | Medium |
@@ -323,4 +327,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0952-largest-component-size-by-common-factor/) | Hard |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
