@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1705-maximum-number-of-eaten-apples](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1705-maximum-number-of-eaten-apples/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1980-find-unique-binary-string/) | Medium |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2065-maximum-path-quality-of-a-graph/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-all-paths-from-source-to-target](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0797-all-paths-from-source-to-target/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1980-find-unique-binary-string/) | Medium |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2065-maximum-path-quality-of-a-graph/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -279,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0797-all-paths-from-source-to-target/) | Medium |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2065-maximum-path-quality-of-a-graph/) | Hard |
 | [2076-process-restricted-friend-requests](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2076-process-restricted-friend-requests/) | Hard |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
 ## Union-Find
