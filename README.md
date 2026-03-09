@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0952-largest-component-size-by-common-factor](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0952-largest-component-size-by-common-factor/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1980-find-unique-binary-string/) | Medium |
+| [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-all-paths-from-source-to-target](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0797-all-paths-from-source-to-target/) | Medium |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [2076-process-restricted-friend-requests](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2076-process-restricted-friend-requests/) | Hard |
+| [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
