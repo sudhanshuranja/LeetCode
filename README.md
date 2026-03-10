@@ -174,12 +174,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0687-longest-univalue-path](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0687-longest-univalue-path/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0687-longest-univalue-path](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0687-longest-univalue-path/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
@@ -351,4 +353,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2203-minimum-weighted-subgraph-with-the-required-paths/) | Hard |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2642-design-graph-with-shortest-path-calculator/) | Hard |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
