@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1765-map-of-highest-peak](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1765-map-of-highest-peak/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1980-find-unique-binary-string/) | Medium |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2065-maximum-path-quality-of-a-graph/) | Hard |
+| [2196-create-binary-tree-from-descriptions](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,15 +167,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1311-get-watched-videos-by-your-friends](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1980-find-unique-binary-string/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
