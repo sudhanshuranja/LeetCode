@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1584-min-cost-to-connect-all-points](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1584-min-cost-to-connect-all-points/) | Medium |
 | [1705-maximum-number-of-eaten-apples](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1705-maximum-number-of-eaten-apples/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1765-map-of-highest-peak/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1980-find-unique-binary-string/) | Medium |
@@ -356,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1584-min-cost-to-connect-all-points/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2065-maximum-path-quality-of-a-graph/) | Hard |
 | [2076-process-restricted-friend-requests](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2076-process-restricted-friend-requests/) | Hard |
@@ -370,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0952-largest-component-size-by-common-factor/) | Hard |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard |
+| [1584-min-cost-to-connect-all-points](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1584-min-cost-to-connect-all-points/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 | [2076-process-restricted-friend-requests](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2076-process-restricted-friend-requests/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -405,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard |
+| [1584-min-cost-to-connect-all-points](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1584-min-cost-to-connect-all-points/) | Medium |
 ## Strongly Connected Component
 | Problem Name | Difficulty |
 | ------- | ------- |
