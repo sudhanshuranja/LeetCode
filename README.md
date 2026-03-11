@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0014-longest-common-prefix/) | Easy |
 | [0093-restore-ip-addresses](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0093-restore-ip-addresses/) | Medium |
 | [0097-interleaving-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0097-interleaving-string/) | Medium |
+| [0139-word-break](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0139-word-break/) | Medium |
 | [0214-shortest-palindrome](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0214-shortest-palindrome/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0316-remove-duplicate-letters/) | Medium |
 | [0394-decode-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0394-decode-string/) | Medium |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0135-candy](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0135-candy/) | Hard |
+| [0139-word-break](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0219-contains-duplicate-ii/) | Easy |
@@ -181,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0128-longest-consecutive-sequence/) | Medium |
+| [0139-word-break](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0141-linked-list-cycle/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0424-longest-repeating-character-replacement/) | Medium |
@@ -285,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0070-climbing-stairs/) | Easy |
 | [0097-interleaving-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0097-interleaving-string/) | Medium |
+| [0139-word-break](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0198-house-robber/) | Medium |
 | [0494-target-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0494-target-sum/) | Medium |
 | [1191-k-concatenation-maximum-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1191-k-concatenation-maximum-sum/) | Medium |
@@ -420,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0014-longest-common-prefix/) | Easy |
+| [0139-word-break](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0139-word-break/) | Medium |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0440-k-th-smallest-in-lexicographical-order/) | Hard |
 | [0720-longest-word-in-dictionary](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0720-longest-word-in-dictionary/) | Medium |
 ## Minimum Spanning Tree
@@ -435,4 +440,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
