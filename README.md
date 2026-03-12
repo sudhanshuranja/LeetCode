@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0633-sum-of-square-numbers/) | Medium |
 | [0877-stone-game](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0877-stone-game/) | Medium |
+| [0913-cat-and-mouse](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0913-cat-and-mouse/) | Hard |
 | [0932-beautiful-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0932-beautiful-array/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0952-largest-component-size-by-common-factor/) | Hard |
 | [1492-the-kth-factor-of-n](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1492-the-kth-factor-of-n/) | Medium |
@@ -303,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0198-house-robber/) | Medium |
 | [0494-target-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0494-target-sum/) | Medium |
 | [0877-stone-game](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0877-stone-game/) | Medium |
+| [0913-cat-and-mouse](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0913-cat-and-mouse/) | Hard |
 | [1191-k-concatenation-maximum-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1191-k-concatenation-maximum-sum/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1668-maximum-repeating-substring](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1668-maximum-repeating-substring/) | Easy |
@@ -386,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0743-network-delay-time/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0797-all-paths-from-source-to-target/) | Medium |
+| [0913-cat-and-mouse](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0913-cat-and-mouse/) | Hard |
 | [1129-shortest-path-with-alternating-colors](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
@@ -459,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0139-word-break/) | Medium |
+| [0913-cat-and-mouse](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0913-cat-and-mouse/) | Hard |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -468,4 +472,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0292-nim-game](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/0292-nim-game/) | Easy |
 | [0877-stone-game](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0877-stone-game/) | Medium |
+| [0913-cat-and-mouse](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0913-cat-and-mouse/) | Hard |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0913-cat-and-mouse](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0913-cat-and-mouse/) | Hard |
 <!---LeetCode Topics End-->
