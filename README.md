@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0633-sum-of-square-numbers/) | Medium |
 | [0932-beautiful-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0932-beautiful-array/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0952-largest-component-size-by-common-factor/) | Hard |
+| [1492-the-kth-factor-of-n](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1492-the-kth-factor-of-n/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -410,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0952-largest-component-size-by-common-factor/) | Hard |
+| [1492-the-kth-factor-of-n](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1492-the-kth-factor-of-n/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Shortest Path
 | Problem Name | Difficulty |
