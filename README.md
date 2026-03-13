@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0141-linked-list-cycle](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0143-reorder-list/) | Medium |
+| [0146-lru-cache](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0146-lru-cache/) | Medium |
 | [0147-insertion-sort-list](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0147-insertion-sort-list/) | Medium |
 | [0622-design-circular-queue](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0622-design-circular-queue/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1019-next-greater-node-in-linked-list/) | Medium |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0141-linked-list-cycle/) | Easy |
+| [0146-lru-cache](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0146-lru-cache/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0424-longest-repeating-character-replacement/) | Medium |
@@ -309,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0146-lru-cache/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0307-range-sum-query-mutable/) | Medium |
 | [0622-design-circular-queue](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0622-design-circular-queue/) | Medium |
 | [0731-my-calendar-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0731-my-calendar-ii/) | Medium |
@@ -508,4 +511,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0913-cat-and-mouse](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0913-cat-and-mouse/) | Hard |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
