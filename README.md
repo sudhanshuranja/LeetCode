@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0941-valid-mountain-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0941-valid-mountain-array/) | Easy |
 | [0948-bag-of-tokens](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0948-bag-of-tokens/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0952-largest-component-size-by-common-factor/) | Hard |
+| [0994-rotting-oranges](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0994-rotting-oranges/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1019-next-greater-node-in-linked-list/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1052-grumpy-bookstore-owner/) | Medium |
 | [1191-k-concatenation-maximum-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1191-k-concatenation-maximum-sum/) | Medium |
@@ -286,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0200-number-of-islands/) | Medium |
 | [0221-maximal-square](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0221-maximal-square/) | Medium |
 | [0463-island-perimeter](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0463-island-perimeter/) | Easy |
+| [0994-rotting-oranges](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0994-rotting-oranges/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1765-map-of-highest-peak](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1765-map-of-highest-peak/) | Medium |
 ## Stack
@@ -414,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-all-paths-from-source-to-target](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0797-all-paths-from-source-to-target/) | Medium |
 | [0815-bus-routes](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0815-bus-routes/) | Hard |
 | [0841-keys-and-rooms](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0841-keys-and-rooms/) | Medium |
+| [0994-rotting-oranges](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0994-rotting-oranges/) | Medium |
 | [1129-shortest-path-with-alternating-colors](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1765-map-of-highest-peak/) | Medium |
