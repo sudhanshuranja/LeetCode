@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1705-maximum-number-of-eaten-apples](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1705-maximum-number-of-eaten-apples/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1765-map-of-highest-peak/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Hard/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1980-find-unique-binary-string/) | Medium |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2065-maximum-path-quality-of-a-graph/) | Hard |
@@ -308,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0316-remove-duplicate-letters/) | Medium |
 | [0394-decode-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0394-decode-string/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1019-next-greater-node-in-linked-list/) | Medium |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Hard/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -325,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0316-remove-duplicate-letters/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1019-next-greater-node-in-linked-list/) | Medium |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Hard/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Design
 | Problem Name | Difficulty |
