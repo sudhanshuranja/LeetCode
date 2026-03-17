@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0493-reverse-pairs](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0493-reverse-pairs/) | Hard |
 | [0494-target-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0494-target-sum/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0523-continuous-subarray-sum/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0622-design-circular-queue](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0622-design-circular-queue/) | Medium |
 | [0704-binary-search](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0704-binary-search/) | Easy |
 | [0720-longest-word-in-dictionary](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0720-longest-word-in-dictionary/) | Medium |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0523-continuous-subarray-sum/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0720-longest-word-in-dictionary/) | Medium |
 | [0815-bus-routes](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0815-bus-routes/) | Hard |
 | [0952-largest-component-size-by-common-factor](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0952-largest-component-size-by-common-factor/) | Hard |
@@ -420,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0238-product-of-array-except-self/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0523-continuous-subarray-sum/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0731-my-calendar-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0731-my-calendar-ii/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
