@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0720-longest-word-in-dictionary/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/1392-longest-happy-prefix/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -325,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0394-decode-string/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1019-next-greater-node-in-linked-list/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Hard/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Greedy
