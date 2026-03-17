@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0014-longest-common-prefix/) | Easy |
 | [0016-3sum-closest](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0016-3sum-closest/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0033-search-in-rotated-sorted-array/) | Medium |
+| [0042-trapping-rain-water](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0088-merge-sorted-array/) | Easy |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0011-container-with-most-water/) | Medium |
 | [0016-3sum-closest](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0016-3sum-closest/) | Medium |
+| [0042-trapping-rain-water](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0143-reorder-list/) | Medium |
@@ -330,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0042-trapping-rain-water/) | Hard |
 | [0143-reorder-list](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0143-reorder-list/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0316-remove-duplicate-letters/) | Medium |
 | [0394-decode-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0394-decode-string/) | Medium |
@@ -355,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0042-trapping-rain-water/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0316-remove-duplicate-letters/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1019-next-greater-node-in-linked-list/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Hard/1944-number-of-visible-people-in-a-queue/) | Hard |
@@ -376,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
+| [0042-trapping-rain-water](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0070-climbing-stairs/) | Easy |
 | [0097-interleaving-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0097-interleaving-string/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
