@@ -285,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1068-product-sales-analysis-i](https://github.com/sudhanshuranja/LeetCode/tree/main/MySQL/Easy/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/sudhanshuranja/LeetCode/tree/main/MySQL/Easy/1075-project-employees-i/) | Easy |
 | [1148-article-views-i](https://github.com/sudhanshuranja/LeetCode/tree/main/MySQL/Easy/1148-article-views-i/) | Easy |
+| [1211-queries-quality-and-percentage](https://github.com/sudhanshuranja/LeetCode/tree/main/MySQL/Easy/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/sudhanshuranja/LeetCode/tree/main/MySQL/Easy/1251-average-selling-price/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/sudhanshuranja/LeetCode/tree/main/MySQL/Easy/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/sudhanshuranja/LeetCode/tree/main/MySQL/Easy/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
