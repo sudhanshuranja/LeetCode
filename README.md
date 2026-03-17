@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1191-k-concatenation-maximum-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1191-k-concatenation-maximum-sum/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1386-cinema-seat-allocation/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1584-min-cost-to-connect-all-points](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1584-min-cost-to-connect-all-points/) | Medium |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0952-largest-component-size-by-common-factor](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0952-largest-component-size-by-common-factor/) | Hard |
 | [1311-get-watched-videos-by-your-friends](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1386-cinema-seat-allocation/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1980-find-unique-binary-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
@@ -325,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0316-remove-duplicate-letters/) | Medium |
 | [0860-lemonade-change](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0860-lemonade-change/) | Easy |
 | [0948-bag-of-tokens](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0948-bag-of-tokens/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1386-cinema-seat-allocation/) | Medium |
 | [1705-maximum-number-of-eaten-apples](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1705-maximum-number-of-eaten-apples/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -515,6 +518,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1009-complement-of-base-10-integer/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1386-cinema-seat-allocation/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
