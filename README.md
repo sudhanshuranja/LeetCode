@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3115-maximum-prime-difference](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/3115-maximum-prime-difference/) | Medium |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3479-fruits-into-baskets-iii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/3479-fruits-into-baskets-iii/) | Medium |
 ## Divide and Conquer
@@ -346,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1765-map-of-highest-peak](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1765-map-of-highest-peak/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -478,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
