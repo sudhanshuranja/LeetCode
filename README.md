@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0214-shortest-palindrome](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0214-shortest-palindrome/) | Hard |
 | [0242-valid-anagram](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0242-valid-anagram/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0316-remove-duplicate-letters/) | Medium |
+| [0345-reverse-vowels-of-a-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0394-decode-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0394-decode-string/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0720-longest-word-in-dictionary/) | Medium |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0143-reorder-list/) | Medium |
+| [0345-reverse-vowels-of-a-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0633-sum-of-square-numbers/) | Medium |
 | [0948-bag-of-tokens](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0948-bag-of-tokens/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/1768-merge-strings-alternately/) | Easy |
