@@ -355,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1661-average-time-of-process-per-machine](https://github.com/sudhanshuranja/LeetCode/tree/main/MySQL/Easy/1661-average-time-of-process-per-machine/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/sudhanshuranja/LeetCode/tree/main/MySQL/Easy/1667-fix-names-in-a-table/) | Easy |
 | [1683-invalid-tweets](https://github.com/sudhanshuranja/LeetCode/tree/main/MySQL/Easy/1683-invalid-tweets/) | Easy |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/sudhanshuranja/LeetCode/tree/main/MySQL/Easy/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/sudhanshuranja/LeetCode/tree/main/MySQL/Easy/1873-calculate-special-bonus/) | Easy |
 | [1934-confirmation-rate](https://github.com/sudhanshuranja/LeetCode/tree/main/MySQL/Medium/1934-confirmation-rate/) | Medium |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/sudhanshuranja/LeetCode/tree/main/MySQL/Easy/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
