@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0239-sliding-window-maximum/) | Hard |
 | [0307-range-sum-query-mutable](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0307-range-sum-query-mutable/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0334-increasing-triplet-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0436-find-right-interval](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0436-find-right-interval/) | Medium |
@@ -397,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0011-container-with-most-water/) | Medium |
 | [0135-candy](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0135-candy/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0316-remove-duplicate-letters/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0334-increasing-triplet-subsequence/) | Medium |
 | [0860-lemonade-change](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0860-lemonade-change/) | Easy |
 | [0948-bag-of-tokens](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0948-bag-of-tokens/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1386-cinema-seat-allocation/) | Medium |
