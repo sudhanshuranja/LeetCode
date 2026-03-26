@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3479-fruits-into-baskets-iii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/3479-fruits-into-baskets-iii/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3546-equal-sum-grid-partition-i/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/3643-flip-square-submatrix-vertically/) | Easy |
 ## Divide and Conquer
@@ -292,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1980-find-unique-binary-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
+| [3548-equal-sum-grid-partition-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -390,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3546-equal-sum-grid-partition-i/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/3643-flip-square-submatrix-vertically/) | Easy |
 ## Stack
@@ -529,6 +532,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3546-equal-sum-grid-partition-i/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -680,4 +684,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3546-equal-sum-grid-partition-i/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
 <!---LeetCode Topics End-->
