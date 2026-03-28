@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0334-increasing-triplet-subsequence](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0334-increasing-triplet-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0436-find-right-interval](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0436-find-right-interval/) | Medium |
 | [0463-island-perimeter](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0463-island-perimeter/) | Easy |
 | [0493-reverse-pairs](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0493-reverse-pairs/) | Hard |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0436-find-right-interval](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0436-find-right-interval/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0720-longest-word-in-dictionary/) | Medium |
 | [0912-sort-an-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0912-sort-an-array/) | Medium |
@@ -425,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0135-candy](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0135-candy/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0316-remove-duplicate-letters/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0334-increasing-triplet-subsequence/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0860-lemonade-change](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0860-lemonade-change/) | Easy |
 | [0948-bag-of-tokens](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0948-bag-of-tokens/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1386-cinema-seat-allocation/) | Medium |
@@ -470,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0198-house-robber/) | Medium |
 | [0221-maximal-square](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0221-maximal-square/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0494-target-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0494-target-sum/) | Medium |
 | [0877-stone-game](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0877-stone-game/) | Medium |
 | [0913-cat-and-mouse](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0913-cat-and-mouse/) | Hard |
