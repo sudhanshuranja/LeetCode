@@ -366,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1148-article-views-i](https://github.com/sudhanshuranja/LeetCode/tree/main/MySQL/Easy/1148-article-views-i/) | Easy |
 | [1164-product-price-at-a-given-date](https://github.com/sudhanshuranja/LeetCode/tree/main/MySQL/Medium/1164-product-price-at-a-given-date/) | Medium |
 | [1174-immediate-food-delivery-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/MySQL/Medium/1174-immediate-food-delivery-ii/) | Medium |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/sudhanshuranja/LeetCode/tree/main/MySQL/Medium/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/sudhanshuranja/LeetCode/tree/main/MySQL/Easy/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/sudhanshuranja/LeetCode/tree/main/MySQL/Easy/1251-average-selling-price/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/sudhanshuranja/LeetCode/tree/main/MySQL/Easy/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
