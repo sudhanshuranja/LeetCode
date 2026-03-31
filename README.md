@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2573-find-the-string-with-lcp](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/2573-find-the-string-with-lcp/) | Hard |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3474-lexicographically-smallest-generated-string](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -451,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/2573-find-the-string-with-lcp/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3474-lexicographically-smallest-generated-string](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -509,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1392-longest-happy-prefix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/1392-longest-happy-prefix/) | Hard |
 | [1668-maximum-repeating-substring](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1668-maximum-repeating-substring/) | Easy |
 | [2223-sum-of-scores-of-built-strings](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2223-sum-of-scores-of-built-strings/) | Hard |
+| [3474-lexicographically-smallest-generated-string](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
