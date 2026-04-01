@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [2751-robot-collisions](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2065-maximum-path-quality-of-a-graph](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2065-maximum-path-quality-of-a-graph/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/2573-find-the-string-with-lcp/) | Hard |
+| [2751-robot-collisions](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/2751-robot-collisions/) | Hard |
 | [2906-construct-product-matrix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2906-construct-product-matrix/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -177,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-max-number-of-k-sum-pairs](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2751-robot-collisions](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Heap (Priority Queue)
@@ -436,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Hard/1944-number-of-visible-people-in-a-queue/) | Hard |
+| [2751-robot-collisions](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/2751-robot-collisions/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
