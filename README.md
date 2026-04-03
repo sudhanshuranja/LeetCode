@@ -376,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0176-second-highest-salary](https://github.com/sudhanshuranja/LeetCode/tree/main/MySQL/Medium/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/sudhanshuranja/LeetCode/tree/main/MySQL/Medium/0177-nth-highest-salary/) | Medium |
 | [0183-customers-who-never-order](https://github.com/sudhanshuranja/LeetCode/tree/main/MySQL/Easy/0183-customers-who-never-order/) | Easy |
+| [0185-department-top-three-salaries](https://github.com/sudhanshuranja/LeetCode/tree/main/MySQL/Hard/0185-department-top-three-salaries/) | Hard |
 | [0196-delete-duplicate-emails](https://github.com/sudhanshuranja/LeetCode/tree/main/MySQL/Easy/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/sudhanshuranja/LeetCode/tree/main/MySQL/Easy/0197-rising-temperature/) | Easy |
 | [0550-game-play-analysis-iv](https://github.com/sudhanshuranja/LeetCode/tree/main/MySQL/Medium/0550-game-play-analysis-iv/) | Medium |
