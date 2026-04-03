@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0088-merge-sorted-array/) | Easy |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0135-candy](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0135-candy/) | Hard |
 | [0139-word-break](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0139-word-break/) | Medium |
@@ -455,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0011-container-with-most-water/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0135-candy](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0135-candy/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0316-remove-duplicate-letters/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0334-increasing-triplet-subsequence/) | Medium |
@@ -504,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0085-maximal-rectangle/) | Hard |
 | [0097-interleaving-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0097-interleaving-string/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0139-word-break](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0198-house-robber/) | Medium |
