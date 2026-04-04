@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
+| [0055-jump-game](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0056-merge-intervals/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0085-maximal-rectangle](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0085-maximal-rectangle/) | Hard |
@@ -459,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0011-container-with-most-water/) | Medium |
+| [0055-jump-game](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0135-candy](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0135-candy/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0316-remove-duplicate-letters/) | Medium |
@@ -505,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0042-trapping-rain-water/) | Hard |
+| [0055-jump-game](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0070-climbing-stairs/) | Easy |
 | [0085-maximal-rectangle](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0085-maximal-rectangle/) | Hard |
 | [0097-interleaving-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0097-interleaving-string/) | Medium |
