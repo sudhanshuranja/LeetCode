@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1980-find-unique-binary-string/) | Medium |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2065-maximum-path-quality-of-a-graph/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2215-find-the-difference-of-two-arrays](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/2573-find-the-string-with-lcp/) | Hard |
 | [2751-robot-collisions](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/2751-robot-collisions/) | Hard |
 | [2906-construct-product-matrix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2906-construct-product-matrix/) | Medium |
@@ -322,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-max-number-of-k-sum-pairs](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1980-find-unique-binary-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2215-find-the-difference-of-two-arrays](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
