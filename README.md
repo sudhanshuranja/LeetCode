@@ -255,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0141-linked-list-cycle](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0146-lru-cache/) | Medium |
 | [0147-insertion-sort-list](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0147-insertion-sort-list/) | Medium |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0143-reorder-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0283-move-zeroes/) | Easy |
@@ -326,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0146-lru-cache/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0242-valid-anagram/) | Easy |
