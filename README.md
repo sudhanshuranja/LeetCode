@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0045-jump-game-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
+| [0051-n-queens](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0051-n-queens/) | Hard |
 | [0055-jump-game](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0056-merge-intervals/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -616,6 +617,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0039-combination-sum/) | Medium |
+| [0051-n-queens](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0051-n-queens/) | Hard |
 | [0077-combinations](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0077-combinations/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0093-restore-ip-addresses/) | Medium |
 | [0494-target-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0494-target-sum/) | Medium |
