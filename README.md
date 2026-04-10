@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0006-zigzag-conversion/) | Medium |
 | [0014-longest-common-prefix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
