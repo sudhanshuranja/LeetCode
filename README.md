@@ -536,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0622-design-circular-queue](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0622-design-circular-queue/) | Medium |
 | [0731-my-calendar-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0731-my-calendar-ii/) | Medium |
 | [0901-online-stock-span](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0901-online-stock-span/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0933-number-of-recent-calls/) | Easy |
 | [1622-fancy-sequence](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Hard/1622-fancy-sequence/) | Hard |
 | [2069-walking-robot-simulation-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/2069-walking-robot-simulation-ii/) | Medium |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2642-design-graph-with-shortest-path-calculator/) | Hard |
@@ -544,6 +545,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0239-sliding-window-maximum/) | Hard |
 | [0622-design-circular-queue](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0622-design-circular-queue/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0933-number-of-recent-calls/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -802,4 +804,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0901-online-stock-span/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
