@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0051-n-queens/) | Hard |
 | [0055-jump-game](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0056-merge-intervals/) | Medium |
+| [0078-subsets](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0085-maximal-rectangle](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0085-maximal-rectangle/) | Hard |
 | [0088-merge-sorted-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0088-merge-sorted-array/) | Easy |
@@ -629,6 +630,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0039-combination-sum/) | Medium |
 | [0051-n-queens](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0051-n-queens/) | Hard |
 | [0077-combinations](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0077-combinations/) | Medium |
+| [0078-subsets](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0078-subsets/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0093-restore-ip-addresses/) | Medium |
 | [0494-target-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0494-target-sum/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0797-all-paths-from-source-to-target/) | Medium |
@@ -749,6 +751,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0078-subsets/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1009-complement-of-base-10-integer/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1386-cinema-seat-allocation/) | Medium |
