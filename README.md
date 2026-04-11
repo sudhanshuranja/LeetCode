@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -365,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
