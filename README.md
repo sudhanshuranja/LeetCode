@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1705-maximum-number-of-eaten-apples](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1705-maximum-number-of-eaten-apples/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1765-map-of-highest-peak/) | Medium |
+| [1848-minimum-distance-to-the-target-element](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Hard/1944-number-of-visible-people-in-a-queue/) | Hard |
