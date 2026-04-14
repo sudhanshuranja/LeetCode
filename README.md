@@ -391,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/0543-diameter-of-binary-tree/) | Easy |
@@ -403,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/0543-diameter-of-binary-tree/) | Easy |
@@ -685,6 +687,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0079-word-search/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/0207-course-schedule/) | Medium |
 | [0463-island-perimeter](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0463-island-perimeter/) | Easy |
@@ -702,6 +705,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/0207-course-schedule/) | Medium |
 | [0463-island-perimeter](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0463-island-perimeter/) | Easy |
