@@ -401,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0687-longest-univalue-path](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0687-longest-univalue-path/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0872-leaf-similar-trees](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/0872-leaf-similar-trees/) | Easy |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Binary Tree
@@ -414,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0687-longest-univalue-path](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0687-longest-univalue-path/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0872-leaf-similar-trees](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/0872-leaf-similar-trees/) | Easy |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Binary Indexed Tree
@@ -699,6 +701,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0743-network-delay-time/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0841-keys-and-rooms/) | Medium |
+| [0872-leaf-similar-trees](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/0872-leaf-similar-trees/) | Easy |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
