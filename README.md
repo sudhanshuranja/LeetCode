@@ -410,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0701-insert-into-a-binary-search-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/0872-leaf-similar-trees/) | Easy |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1339-maximum-product-of-splitted-binary-tree/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -425,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0701-insert-into-a-binary-search-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/0872-leaf-similar-trees/) | Easy |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1339-maximum-product-of-splitted-binary-tree/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
@@ -715,6 +717,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0841-keys-and-rooms](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0841-keys-and-rooms/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/0872-leaf-similar-trees/) | Easy |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1339-maximum-product-of-splitted-binary-tree/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2685-count-the-number-of-complete-components/) | Medium |
@@ -733,6 +736,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0994-rotting-oranges/) | Medium |
 | [1129-shortest-path-with-alternating-colors](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1311-get-watched-videos-by-your-friends/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1765-map-of-highest-peak/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
