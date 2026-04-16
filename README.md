@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0049-group-anagrams](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0072-edit-distance/) | Medium |
+| [0076-minimum-window-substring](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0079-word-search/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0093-restore-ip-addresses/) | Medium |
 | [0097-interleaving-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0097-interleaving-string/) | Medium |
@@ -182,7 +183,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3479-fruits-into-baskets-iii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/3479-fruits-into-baskets-iii/) | Medium |
-| [3488-closest-equal-element-queries](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -312,7 +312,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3479-fruits-into-baskets-iii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/3479-fruits-into-baskets-iii/) | Medium |
-| [3488-closest-equal-element-queries](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3488-closest-equal-element-queries/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Math
@@ -364,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0049-group-anagrams](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
+| [0076-minimum-window-substring](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0076-minimum-window-substring/) | Hard |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0139-word-break/) | Medium |
@@ -393,7 +393,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2352-equal-row-and-column-pairs](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/2352-equal-row-and-column-pairs/) | Medium |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
-| [3488-closest-equal-element-queries](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3488-closest-equal-element-queries/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -636,6 +635,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0076-minimum-window-substring](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0239-sliding-window-maximum/) | Hard |
