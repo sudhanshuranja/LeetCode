@@ -409,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0101-symmetric-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0101-symmetric-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -428,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0101-symmetric-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0101-symmetric-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -746,6 +748,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0101-symmetric-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/0207-course-schedule/) | Medium |
