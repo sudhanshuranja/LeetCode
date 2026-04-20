@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0148-sort-list](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/0148-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0307-range-sum-query-mutable/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0088-merge-sorted-array/) | Easy |
 | [0147-insertion-sort-list](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0147-insertion-sort-list/) | Medium |
+| [0148-sort-list](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/0148-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0242-valid-anagram/) | Easy |
 | [0274-h-index](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0274-h-index/) | Medium |
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0023-merge-k-sorted-lists/) | Hard |
+| [0148-sort-list](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/0148-sort-list/) | Medium |
 | [0493-reverse-pairs](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0493-reverse-pairs/) | Hard |
 | [0912-sort-an-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0912-sort-an-array/) | Medium |
 ## Bucket Sort
@@ -295,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0146-lru-cache/) | Medium |
 | [0147-insertion-sort-list](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0147-insertion-sort-list/) | Medium |
+| [0148-sort-list](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/0148-sort-list/) | Medium |
 | [0622-design-circular-queue](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0622-design-circular-queue/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1019-next-greater-node-in-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -355,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0143-reorder-list/) | Medium |
+| [0148-sort-list](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0283-move-zeroes/) | Easy |
