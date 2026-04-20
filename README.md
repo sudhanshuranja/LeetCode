@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1071-greatest-common-divisor-of-strings](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
+| [1268-search-suggestions-system](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1268-search-suggestions-system/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/1392-longest-happy-prefix/) | Hard |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1052-grumpy-bookstore-owner](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1052-grumpy-bookstore-owner/) | Medium |
 | [1191-k-concatenation-maximum-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1191-k-concatenation-maximum-sum/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/1207-unique-number-of-occurrences/) | Easy |
+| [1268-search-suggestions-system](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1268-search-suggestions-system/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1386-cinema-seat-allocation/) | Medium |
@@ -234,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0720-longest-word-in-dictionary](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0720-longest-word-in-dictionary/) | Medium |
 | [0912-sort-an-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0912-sort-an-array/) | Medium |
 | [0948-bag-of-tokens](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0948-bag-of-tokens/) | Medium |
+| [1268-search-suggestions-system](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1268-search-suggestions-system/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard |
 | [1657-determine-if-two-strings-are-close](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1657-determine-if-two-strings-are-close/) | Medium |
@@ -254,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0743-network-delay-time](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0743-network-delay-time/) | Medium |
 | [0912-sort-an-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0912-sort-an-array/) | Medium |
+| [1268-search-suggestions-system](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1268-search-suggestions-system/) | Medium |
 | [1705-maximum-number-of-eaten-apples](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1705-maximum-number-of-eaten-apples/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2203-minimum-weighted-subgraph-with-the-required-paths/) | Hard |
@@ -318,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0731-my-calendar-ii/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
+| [1268-search-suggestions-system](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1268-search-suggestions-system/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2223-sum-of-scores-of-built-strings](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2223-sum-of-scores-of-built-strings/) | Hard |
@@ -857,6 +862,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0440-k-th-smallest-in-lexicographical-order/) | Hard |
 | [0720-longest-word-in-dictionary](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0720-longest-word-in-dictionary/) | Medium |
+| [1268-search-suggestions-system](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1268-search-suggestions-system/) | Medium |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
