@@ -343,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0048-rotate-image/) | Medium |
 | [0070-climbing-stairs](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0070-climbing-stairs/) | Easy |
+| [0279-perfect-squares](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0279-perfect-squares/) | Medium |
 | [0292-nim-game](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/0292-nim-game/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0633-sum-of-square-numbers/) | Medium |
@@ -657,6 +658,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0198-house-robber/) | Medium |
 | [0221-maximal-square](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0221-maximal-square/) | Medium |
+| [0279-perfect-squares](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0279-perfect-squares/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0494-target-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0494-target-sum/) | Medium |
 | [0877-stone-game](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0877-stone-game/) | Medium |
@@ -788,6 +790,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/0207-course-schedule/) | Medium |
+| [0279-perfect-squares](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0279-perfect-squares/) | Medium |
 | [0463-island-perimeter](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0463-island-perimeter/) | Easy |
 | [0743-network-delay-time](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0743-network-delay-time/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0797-all-paths-from-source-to-target/) | Medium |
