@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0045-jump-game-ii/) | Medium |
+| [0048-rotate-image](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0051-n-queens/) | Hard |
 | [0054-spiral-matrix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0054-spiral-matrix/) | Medium |
@@ -340,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0048-rotate-image/) | Medium |
 | [0070-climbing-stairs](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0070-climbing-stairs/) | Easy |
 | [0292-nim-game](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/0292-nim-game/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0523-continuous-subarray-sum/) | Medium |
@@ -538,6 +540,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/0036-valid-sudoku/) | Medium |
+| [0048-rotate-image](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0054-spiral-matrix/) | Medium |
 | [0079-word-search](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0079-word-search/) | Medium |
 | [0085-maximal-rectangle](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0085-maximal-rectangle/) | Hard |
