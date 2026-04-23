@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2463-minimum-total-distance-traveled](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/2573-find-the-string-with-lcp/) | Hard |
+| [2615-sum-of-distances](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/2615-sum-of-distances/) | Medium |
 | [2751-robot-collisions](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/2751-robot-collisions/) | Hard |
 | [2906-construct-product-matrix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2906-construct-product-matrix/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
@@ -424,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2215-find-the-difference-of-two-arrays](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/2352-equal-row-and-column-pairs/) | Medium |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
+| [2615-sum-of-distances](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/2615-sum-of-distances/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -746,6 +748,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0731-my-calendar-ii/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2615-sum-of-distances](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
