@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0088-merge-sorted-array/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0148-sort-list](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/0148-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0307-range-sum-query-mutable/) | Medium |
@@ -447,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -471,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -882,6 +886,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0450-delete-node-in-a-bst/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0669-trim-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0700-search-in-a-binary-search-tree/) | Easy |
