@@ -781,6 +781,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0437-path-sum-iii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0437-path-sum-iii/) | Medium |
 | [0463-island-perimeter](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0463-island-perimeter/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/0543-diameter-of-binary-tree/) | Easy |
+| [0547-number-of-provinces](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0547-number-of-provinces/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0669-trim-a-binary-search-tree/) | Medium |
 | [0687-longest-univalue-path](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0687-longest-univalue-path/) | Medium |
 | [0743-network-delay-time](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0743-network-delay-time/) | Medium |
@@ -806,6 +807,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/0207-course-schedule/) | Medium |
 | [0279-perfect-squares](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0279-perfect-squares/) | Medium |
 | [0463-island-perimeter](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0463-island-perimeter/) | Easy |
+| [0547-number-of-provinces](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0547-number-of-provinces/) | Medium |
 | [0743-network-delay-time](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0743-network-delay-time/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0797-all-paths-from-source-to-target/) | Medium |
 | [0815-bus-routes](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0815-bus-routes/) | Hard |
@@ -824,6 +826,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/0207-course-schedule/) | Medium |
+| [0547-number-of-provinces](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0547-number-of-provinces/) | Medium |
 | [0743-network-delay-time](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0743-network-delay-time/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0841-keys-and-rooms/) | Medium |
@@ -849,6 +852,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0200-number-of-islands/) | Medium |
+| [0547-number-of-provinces](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0547-number-of-provinces/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0952-largest-component-size-by-common-factor/) | Hard |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1584-min-cost-to-connect-all-points/) | Medium |
