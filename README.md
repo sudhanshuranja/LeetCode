@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0139-word-break/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0151-reverse-words-in-a-string/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0208-implement-trie-prefix-tree/) | Medium |
 | [0214-shortest-palindrome](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0214-shortest-palindrome/) | Hard |
 | [0242-valid-anagram](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0242-valid-anagram/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0316-remove-duplicate-letters/) | Medium |
@@ -418,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0146-lru-cache/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0208-implement-trie-prefix-tree/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
@@ -648,6 +650,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0146-lru-cache/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0208-implement-trie-prefix-tree/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0307-range-sum-query-mutable/) | Medium |
 | [0622-design-circular-queue](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0622-design-circular-queue/) | Medium |
 | [0731-my-calendar-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0731-my-calendar-ii/) | Medium |
@@ -913,6 +916,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0014-longest-common-prefix/) | Easy |
 | [0139-word-break](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0139-word-break/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0208-implement-trie-prefix-tree/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0440-k-th-smallest-in-lexicographical-order/) | Hard |
 | [0720-longest-word-in-dictionary](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0720-longest-word-in-dictionary/) | Medium |
