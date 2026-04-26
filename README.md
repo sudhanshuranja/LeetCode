@@ -695,6 +695,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0198-house-robber/) | Medium |
 | [0221-maximal-square](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0221-maximal-square/) | Medium |
 | [0279-perfect-squares](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0279-perfect-squares/) | Medium |
+| [0338-counting-bits](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/0338-counting-bits/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0494-target-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0494-target-sum/) | Medium |
 | [0877-stone-game](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0877-stone-game/) | Medium |
@@ -917,6 +918,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0078-subsets](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0078-subsets/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0287-find-the-duplicate-number/) | Medium |
+| [0338-counting-bits](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/0338-counting-bits/) | Easy |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1009-complement-of-base-10-integer/) | Easy |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
