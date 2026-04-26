@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0139-word-break/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0151-reverse-words-in-a-string/) | Medium |
+| [0205-isomorphic-strings](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/0205-isomorphic-strings/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0208-implement-trie-prefix-tree/) | Medium |
 | [0214-shortest-palindrome](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0214-shortest-palindrome/) | Hard |
 | [0242-valid-anagram](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0242-valid-anagram/) | Easy |
@@ -423,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0146-lru-cache/) | Medium |
+| [0205-isomorphic-strings](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/0205-isomorphic-strings/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0208-implement-trie-prefix-tree/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0242-valid-anagram/) | Easy |
