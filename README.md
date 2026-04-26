@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1584-min-cost-to-connect-all-points](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1584-min-cost-to-connect-all-points/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -581,6 +582,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0289-game-of-life](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/0289-game-of-life/) | Medium |
 | [0463-island-perimeter](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0463-island-perimeter/) | Easy |
 | [0994-rotting-oranges](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0994-rotting-oranges/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -813,6 +815,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -839,6 +842,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1765-map-of-highest-peak/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -877,6 +881,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0547-number-of-provinces/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0952-largest-component-size-by-common-factor/) | Hard |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard |
+| [1559-detect-cycles-in-2d-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1584-min-cost-to-connect-all-points/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1971-find-if-path-exists-in-graph/) | Easy |
