@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0032-longest-valid-parentheses](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0076-minimum-window-substring/) | Hard |
@@ -606,6 +607,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0042-trapping-rain-water/) | Hard |
 | [0085-maximal-rectangle](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0085-maximal-rectangle/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0094-binary-tree-inorder-traversal/) | Easy |
@@ -678,6 +680,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0055-jump-game/) | Medium |
