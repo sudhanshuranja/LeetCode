@@ -285,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1705-maximum-number-of-eaten-apples](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1705-maximum-number-of-eaten-apples/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2203-minimum-weighted-subgraph-with-the-required-paths/) | Hard |
+| [2336-smallest-number-in-infinite-set](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/2336-smallest-number-in-infinite-set/) | Medium |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2642-design-graph-with-shortest-path-calculator/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -450,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1980-find-unique-binary-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2336-smallest-number-in-infinite-set](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/2336-smallest-number-in-infinite-set/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/2352-equal-row-and-column-pairs/) | Medium |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
 | [2615-sum-of-distances](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/2615-sum-of-distances/) | Medium |
@@ -530,6 +532,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0493-reverse-pairs/) | Hard |
 | [0731-my-calendar-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0731-my-calendar-ii/) | Medium |
+| [2336-smallest-number-in-infinite-set](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/2336-smallest-number-in-infinite-set/) | Medium |
 | [3479-fruits-into-baskets-iii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/3479-fruits-into-baskets-iii/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -673,6 +676,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0933-number-of-recent-calls](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0933-number-of-recent-calls/) | Easy |
 | [1622-fancy-sequence](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Hard/1622-fancy-sequence/) | Hard |
 | [2069-walking-robot-simulation-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/2069-walking-robot-simulation-ii/) | Medium |
+| [2336-smallest-number-in-infinite-set](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/2336-smallest-number-in-infinite-set/) | Medium |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2642-design-graph-with-shortest-path-calculator/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
