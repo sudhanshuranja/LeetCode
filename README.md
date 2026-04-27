@@ -468,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0199-binary-tree-right-side-view/) | Medium |
+| [0226-invert-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0450-delete-node-in-a-bst/) | Medium |
@@ -493,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0199-binary-tree-right-side-view/) | Medium |
+| [0226-invert-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0450-delete-node-in-a-bst/) | Medium |
@@ -807,6 +809,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/0207-course-schedule/) | Medium |
+| [0226-invert-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0437-path-sum-iii/) | Medium |
 | [0463-island-perimeter](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0463-island-perimeter/) | Easy |
@@ -836,6 +839,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/0207-course-schedule/) | Medium |
+| [0226-invert-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/0226-invert-binary-tree/) | Easy |
 | [0279-perfect-squares](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0279-perfect-squares/) | Medium |
 | [0463-island-perimeter](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0463-island-perimeter/) | Easy |
 | [0547-number-of-provinces](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0547-number-of-provinces/) | Medium |
