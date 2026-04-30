@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0334-increasing-triplet-subsequence](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0334-increasing-triplet-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0399-evaluate-division](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/0399-evaluate-division/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0416-partition-equal-subset-sum/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0436-find-right-interval](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0436-find-right-interval/) | Medium |
@@ -734,6 +735,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0221-maximal-square](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0221-maximal-square/) | Medium |
 | [0279-perfect-squares](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0279-perfect-squares/) | Medium |
 | [0338-counting-bits](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/0338-counting-bits/) | Easy |
+| [0416-partition-equal-subset-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0494-target-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0494-target-sum/) | Medium |
 | [0877-stone-game](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0877-stone-game/) | Medium |
