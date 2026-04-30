@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Hard/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1980-find-unique-binary-string/) | Medium |
@@ -617,6 +618,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1765-map-of-highest-peak](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1765-map-of-highest-peak/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/2352-equal-row-and-column-pairs/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/2573-find-the-string-with-lcp/) | Hard |
@@ -893,6 +895,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1765-map-of-highest-peak/) | Medium |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2685-count-the-number-of-complete-components/) | Medium |
