@@ -386,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0048-rotate-image/) | Medium |
+| [0062-unique-paths](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/0202-happy-number/) | Easy |
 | [0279-perfect-squares](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0279-perfect-squares/) | Medium |
@@ -734,6 +735,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0072-edit-distance/) | Medium |
@@ -1070,4 +1072,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
