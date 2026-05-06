@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/2352-equal-row-and-column-pairs/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2462-total-cost-to-hire-k-workers/) | Medium |
@@ -292,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2463-minimum-total-distance-traveled/) | Hard |
 | [2542-maximum-subsequence-score](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/2542-maximum-subsequence-score/) | Medium |
 | [2751-robot-collisions](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/2751-robot-collisions/) | Hard |
@@ -386,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2223-sum-of-scores-of-built-strings](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2223-sum-of-scores-of-built-strings/) | Hard |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
@@ -452,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1861-rotating-the-box](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1861-rotating-the-box/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2462-total-cost-to-hire-k-workers/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/3643-flip-square-submatrix-vertically/) | Easy |
 ## Hash Table
