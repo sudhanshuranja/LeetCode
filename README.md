@@ -356,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0061-rotate-list](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0061-rotate-list/) | Medium |
@@ -436,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0016-3sum-closest/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0042-trapping-rain-water](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0061-rotate-list/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
