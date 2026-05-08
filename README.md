@@ -284,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0242-valid-anagram/) | Easy |
 | [0274-h-index](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0274-h-index/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0436-find-right-interval](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0436-find-right-interval/) | Medium |
@@ -313,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0239-sliding-window-maximum/) | Hard |
+| [0295-find-median-from-data-stream](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0743-network-delay-time](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0743-network-delay-time/) | Medium |
 | [0912-sort-an-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0912-sort-an-array/) | Medium |
@@ -457,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0287-find-the-duplicate-number/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0295-find-median-from-data-stream/) | Hard |
 | [0345-reverse-vowels-of-a-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0443-string-compression](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0443-string-compression/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0633-sum-of-square-numbers/) | Medium |
@@ -751,6 +754,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0155-min-stack/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0208-implement-trie-prefix-tree/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0295-find-median-from-data-stream/) | Hard |
 | [0307-range-sum-query-mutable](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0307-range-sum-query-mutable/) | Medium |
 | [0622-design-circular-queue](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0622-design-circular-queue/) | Medium |
 | [0731-my-calendar-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0731-my-calendar-ii/) | Medium |
@@ -1113,6 +1117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0295-find-median-from-data-stream/) | Hard |
 | [0901-online-stock-span](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0933-number-of-recent-calls/) | Easy |
 ## Geometry
