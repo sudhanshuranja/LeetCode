@@ -242,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3546-equal-sum-grid-partition-i](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/3643-flip-square-submatrix-vertically/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/3655-xor-after-range-multiplication-queries-ii/) | Hard |
@@ -430,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3115-maximum-prime-difference](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/3115-maximum-prime-difference/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/3783-mirror-distance-of-an-integer/) | Easy |
 ## Two Pointers
@@ -515,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2615-sum-of-distances](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/2615-sum-of-distances/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -965,6 +968,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2685-count-the-number-of-complete-components/) | Medium |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1018,6 +1022,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1492-the-kth-factor-of-n](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1492-the-kth-factor-of-n/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3115-maximum-prime-difference](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/3115-maximum-prime-difference/) | Medium |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
