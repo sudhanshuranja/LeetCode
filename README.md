@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-peak-index-in-a-mountain-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0860-lemonade-change](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0860-lemonade-change/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0874-walking-robot-simulation/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0912-sort-an-array/) | Medium |
 | [0932-beautiful-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0932-beautiful-array/) | Medium |
@@ -398,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0704-binary-search/) | Easy |
 | [0731-my-calendar-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0731-my-calendar-ii/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1268-search-suggestions-system](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1268-search-suggestions-system/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
