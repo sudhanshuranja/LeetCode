@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0143-reorder-list](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0143-reorder-list/) | Medium |
 | [0224-basic-calculator](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0224-basic-calculator/) | Hard |
+| [0234-palindrome-linked-list](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0394-decode-string/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
@@ -378,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0146-lru-cache/) | Medium |
 | [0147-insertion-sort-list](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/0148-sort-list/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0234-palindrome-linked-list/) | Easy |
 | [0622-design-circular-queue](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0622-design-circular-queue/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1019-next-greater-node-in-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -463,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/0202-happy-number/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0295-find-median-from-data-stream/) | Hard |
@@ -707,6 +710,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0143-reorder-list/) | Medium |
 | [0155-min-stack](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0155-min-stack/) | Medium |
 | [0224-basic-calculator](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0224-basic-calculator/) | Hard |
+| [0234-palindrome-linked-list](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0234-palindrome-linked-list/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0316-remove-duplicate-letters/) | Medium |
 | [0394-decode-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0394-decode-string/) | Medium |
 | [0901-online-stock-span](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0901-online-stock-span/) | Medium |
