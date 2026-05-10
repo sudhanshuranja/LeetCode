@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0720-longest-word-in-dictionary](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0720-longest-word-in-dictionary/) | Medium |
 | [0724-find-pivot-index](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/0724-find-pivot-index/) | Easy |
 | [0731-my-calendar-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0731-my-calendar-ii/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0746-min-cost-climbing-stairs/) | Easy |
 | [0815-bus-routes](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0815-bus-routes/) | Hard |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0860-lemonade-change](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0860-lemonade-change/) | Easy |
@@ -819,6 +820,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0494-target-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0494-target-sum/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0746-min-cost-climbing-stairs/) | Easy |
 | [0788-rotated-digits](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0877-stone-game/) | Medium |
 | [0913-cat-and-mouse](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0913-cat-and-mouse/) | Hard |
