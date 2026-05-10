@@ -374,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0086-partition-list](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/0092-reverse-linked-list-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0143-reorder-list/) | Medium |
@@ -548,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/0226-invert-binary-tree/) | Easy |
@@ -576,6 +578,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/0226-invert-binary-tree/) | Easy |
@@ -927,6 +930,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0200-number-of-islands/) | Medium |
@@ -962,6 +966,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/0207-course-schedule/) | Medium |
