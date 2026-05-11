@@ -826,6 +826,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0746-min-cost-climbing-stairs/) | Easy |
 | [0788-rotated-digits](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/0788-rotated-digits/) | Medium |
+| [0790-domino-and-tromino-tiling](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0790-domino-and-tromino-tiling/) | Medium |
 | [0877-stone-game](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0877-stone-game/) | Medium |
 | [0913-cat-and-mouse](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0913-cat-and-mouse/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1143-longest-common-subsequence/) | Medium |
