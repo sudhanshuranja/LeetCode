@@ -571,6 +571,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -604,6 +605,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -739,6 +741,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0143-reorder-list](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0143-reorder-list/) | Medium |
 | [0155-min-stack](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0155-min-stack/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0173-binary-search-tree-iterator/) | Medium |
 | [0224-basic-calculator](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0224-basic-calculator/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0234-palindrome-linked-list/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0316-remove-duplicate-letters/) | Medium |
@@ -795,6 +798,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0155-min-stack/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0173-binary-search-tree-iterator/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0208-implement-trie-prefix-tree/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0295-find-median-from-data-stream/) | Hard |
 | [0307-range-sum-query-mutable](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0307-range-sum-query-mutable/) | Medium |
@@ -1099,6 +1103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0450-delete-node-in-a-bst/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0669-trim-a-binary-search-tree/) | Medium |
@@ -1184,4 +1189,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0062-unique-paths/) | Medium |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0173-binary-search-tree-iterator/) | Medium |
 <!---LeetCode Topics End-->
