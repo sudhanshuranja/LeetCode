@@ -246,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2553-separate-the-digits-in-an-array](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Easy/2553-separate-the-digits-in-an-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/2573-find-the-string-with-lcp/) | Hard |
 | [2615-sum-of-distances](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/2615-sum-of-distances/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2751-robot-collisions](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/2751-robot-collisions/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Easy/2784-check-if-array-is-good/) | Easy |
@@ -560,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
 | [2540-minimum-common-value](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Easy/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/2615-sum-of-distances/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Easy/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -1143,6 +1145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1386-cinema-seat-allocation/) | Medium |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
