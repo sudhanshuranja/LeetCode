@@ -597,6 +597,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0450-delete-node-in-a-bst/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Easy/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0669-trim-a-binary-search-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0669-trim-a-binary-search-tree/) | Medium |
@@ -633,6 +634,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0450-delete-node-in-a-bst/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Easy/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0669-trim-a-binary-search-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0669-trim-a-binary-search-tree/) | Medium |
@@ -1002,6 +1004,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/0399-evaluate-division/) | Medium |
 | [0437-path-sum-iii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0437-path-sum-iii/) | Medium |
 | [0463-island-perimeter](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0463-island-perimeter/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Easy/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -1041,6 +1044,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0322-coin-change/) | Medium |
 | [0399-evaluate-division](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/0399-evaluate-division/) | Medium |
 | [0463-island-perimeter](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0463-island-perimeter/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0547-number-of-provinces](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Easy/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0743-network-delay-time](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0743-network-delay-time/) | Medium |
@@ -1133,6 +1137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0450-delete-node-in-a-bst/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0669-trim-a-binary-search-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0669-trim-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0701-insert-into-a-binary-search-tree/) | Medium |
