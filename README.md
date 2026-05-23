@@ -221,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1705-maximum-number-of-eaten-apples](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1705-maximum-number-of-eaten-apples/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1765-map-of-highest-peak](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1765-map-of-highest-peak/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
