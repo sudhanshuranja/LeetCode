@@ -204,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1268-search-suggestions-system](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1268-search-suggestions-system/) | Medium |
 | [1306-jump-game-iii](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/1306-jump-game-iii/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1311-get-watched-videos-by-your-friends/) | Medium |
+| [1340-jump-game-v](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Hard/1340-jump-game-v/) | Hard |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1345-jump-game-iv](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/1345-jump-game-iv/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1386-cinema-seat-allocation/) | Medium |
@@ -320,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-bag-of-tokens](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0948-bag-of-tokens/) | Medium |
 | [1268-search-suggestions-system](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1268-search-suggestions-system/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1311-get-watched-videos-by-your-friends/) | Medium |
+| [1340-jump-game-v](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Hard/1340-jump-game-v/) | Hard |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard |
 | [1657-determine-if-two-strings-are-close](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1657-determine-if-two-strings-are-close/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -888,6 +890,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1191-k-concatenation-maximum-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1191-k-concatenation-maximum-sum/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+| [1340-jump-game-v](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Hard/1340-jump-game-v/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1668-maximum-repeating-substring](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1668-maximum-repeating-substring/) | Easy |
