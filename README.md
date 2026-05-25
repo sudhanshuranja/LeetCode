@@ -1158,6 +1158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0078-subsets/) | Medium |
+| [0201-bitwise-and-of-numbers-range](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Easy/0222-count-complete-tree-nodes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0338-counting-bits](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/0338-counting-bits/) | Easy |
