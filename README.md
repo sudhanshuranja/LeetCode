@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/0024-swap-nodes-in-pairs/) | Medium |
+| [0050-powx-n](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0143-reorder-list/) | Medium |
 | [0224-basic-calculator](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0224-basic-calculator/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0234-palindrome-linked-list/) | Easy |
@@ -461,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/0202-happy-number/) | Easy |
