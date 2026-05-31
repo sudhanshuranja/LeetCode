@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0079-word-search/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0093-restore-ip-addresses/) | Medium |
 | [0097-interleaving-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0097-interleaving-string/) | Medium |
+| [0127-word-ladder](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0139-word-break/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0151-reverse-words-in-a-string/) | Medium |
@@ -543,6 +544,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0127-word-ladder](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0133-clone-graph](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0133-clone-graph/) | Medium |
 | [0139-word-break](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0139-word-break/) | Medium |
@@ -1072,6 +1074,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Easy/0112-path-sum/) | Easy |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0127-word-ladder](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0199-binary-tree-right-side-view/) | Medium |
