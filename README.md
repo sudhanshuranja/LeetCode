@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/0399-evaluate-division/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0416-partition-equal-subset-sum/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+| [0427-construct-quad-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/0427-construct-quad-tree/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0436-find-right-interval](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0436-find-right-interval/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0307-range-sum-query-mutable/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0427-construct-quad-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/0427-construct-quad-tree/) | Medium |
 | [0493-reverse-pairs](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0493-reverse-pairs/) | Hard |
 | [0912-sort-an-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0912-sort-an-array/) | Medium |
 | [0932-beautiful-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0932-beautiful-array/) | Medium |
@@ -624,6 +626,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0427-construct-quad-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/0427-construct-quad-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0450-delete-node-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -758,6 +761,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0212-word-search-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0212-word-search-ii/) | Hard |
 | [0221-maximal-square](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0221-maximal-square/) | Medium |
 | [0289-game-of-life](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/0289-game-of-life/) | Medium |
+| [0427-construct-quad-tree](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/0427-construct-quad-tree/) | Medium |
 | [0463-island-perimeter](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0463-island-perimeter/) | Easy |
 | [0909-snakes-and-ladders](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/0909-snakes-and-ladders/) | Medium |
 | [0994-rotting-oranges](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0994-rotting-oranges/) | Medium |
