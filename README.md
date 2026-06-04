@@ -501,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/3783-mirror-distance-of-an-integer/) | Easy |
 ## Two Pointers
@@ -948,6 +949,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3660-jump-game-ix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/3742-maximum-path-score-in-a-grid/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1277,6 +1279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
