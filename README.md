@@ -243,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1765-map-of-highest-peak](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1765-map-of-highest-peak/) | Medium |
+| [1840-maximum-building-height](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/1840-maximum-building-height/) | Hard |
 | [1848-minimum-distance-to-the-target-element](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1861-rotating-the-box/) | Medium |
@@ -359,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1840-maximum-building-height](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/2126-destroying-asteroids/) | Medium |
@@ -508,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1344-angle-between-hands-of-a-clock](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1492-the-kth-factor-of-n](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1492-the-kth-factor-of-n/) | Medium |
 | [1622-fancy-sequence](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Hard/1622-fancy-sequence/) | Hard |
+| [1840-maximum-building-height](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
