@@ -308,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/3742-maximum-path-score-in-a-grid/) | Medium |
@@ -332,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0932-beautiful-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0932-beautiful-array/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/3655-xor-after-range-multiplication-queries-ii/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -412,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/0148-sort-list/) | Medium |
 | [0493-reverse-pairs](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/0493-reverse-pairs/) | Hard |
 | [0912-sort-an-array](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0912-sort-an-array/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -432,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1657-determine-if-two-strings-are-close](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1657-determine-if-two-strings-are-close/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/2833-furthest-point-from-origin/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -635,6 +639,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -733,6 +738,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3161-block-placement-queries](https://github.com/sudhanshuranja/LeetCode/tree/main/Go/Hard/3161-block-placement-queries/) | Hard |
 | [3479-fruits-into-baskets-iii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/3479-fruits-into-baskets-iii/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1078,6 +1084,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3546-equal-sum-grid-partition-i](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/3699-number-of-zigzag-arrays-i/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
