@@ -222,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1191-k-concatenation-maximum-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1191-k-concatenation-maximum-sum/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/1207-unique-number-of-occurrences/) | Easy |
 | [1268-search-suggestions-system](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1268-search-suggestions-system/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/1306-jump-game-iii/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1340-jump-game-v](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Hard/1340-jump-game-v/) | Hard |
@@ -825,6 +826,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0463-island-perimeter/) | Easy |
 | [0909-snakes-and-ladders](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/0909-snakes-and-ladders/) | Medium |
 | [0994-rotting-oranges](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0994-rotting-oranges/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -990,6 +992,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0913-cat-and-mouse](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/0913-cat-and-mouse/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1143-longest-common-subsequence/) | Medium |
 | [1191-k-concatenation-maximum-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1191-k-concatenation-maximum-sum/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1340-jump-game-v](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Hard/1340-jump-game-v/) | Hard |
