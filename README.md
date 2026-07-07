@@ -550,6 +550,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3700-number-of-zigzag-arrays-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Hard/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/3783-mirror-distance-of-an-integer/) | Easy |
 ## Two Pointers
