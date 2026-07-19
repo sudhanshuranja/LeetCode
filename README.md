@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0763-partition-labels](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0763-partition-labels/) | Medium |
 | [0796-rotate-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0796-rotate-string/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
@@ -901,6 +902,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0394-decode-string/) | Medium |
 | [0901-online-stock-span](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0901-online-stock-span/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1019-next-greater-node-in-linked-list/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Hard/1944-number-of-visible-people-in-a-queue/) | Hard |
@@ -926,6 +928,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0763-partition-labels](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0763-partition-labels/) | Medium |
 | [0860-lemonade-change](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0860-lemonade-change/) | Easy |
 | [0948-bag-of-tokens](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0948-bag-of-tokens/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1386-cinema-seat-allocation/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1705-maximum-number-of-eaten-apples](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1705-maximum-number-of-eaten-apples/) | Medium |
@@ -953,6 +956,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0316-remove-duplicate-letters/) | Medium |
 | [0901-online-stock-span](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0901-online-stock-span/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1019-next-greater-node-in-linked-list/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Hard/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Design
