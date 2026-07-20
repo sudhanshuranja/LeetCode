@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/0054-spiral-matrix/) | Medium |
 | [0289-game-of-life](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/0289-game-of-life/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0874-walking-robot-simulation/) | Medium |
+| [1260-shift-2d-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Easy/1260-shift-2d-grid/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1914-cyclically-rotating-a-grid/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/2069-walking-robot-simulation-ii/) | Medium |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1052-grumpy-bookstore-owner](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1052-grumpy-bookstore-owner/) | Medium |
 | [1191-k-concatenation-maximum-sum](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1191-k-concatenation-maximum-sum/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Easy/1207-unique-number-of-occurrences/) | Easy |
+| [1260-shift-2d-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Easy/1260-shift-2d-grid/) | Easy |
 | [1268-search-suggestions-system](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1268-search-suggestions-system/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/1301-number-of-paths-with-max-score/) | Hard |
@@ -855,6 +857,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Easy/0463-island-perimeter/) | Easy |
 | [0909-snakes-and-ladders](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/0909-snakes-and-ladders/) | Medium |
 | [0994-rotting-oranges](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/0994-rotting-oranges/) | Medium |
+| [1260-shift-2d-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Easy/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
