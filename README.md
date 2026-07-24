@@ -314,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3479-fruits-into-baskets-iii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/3479-fruits-into-baskets-iii/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/3501-maximize-active-section-with-trade-ii/) | Hard |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3546-equal-sum-grid-partition-i/) | Medium |
@@ -568,6 +569,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3312-sorted-gcd-pair-queries](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -1352,6 +1354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-cinema-seat-allocation](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Medium/1386-cinema-seat-allocation/) | Medium |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Trie
@@ -1414,6 +1417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1291-sequential-digits](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/1291-sequential-digits/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Python3/Medium/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/sudhanshuranja/LeetCode/tree/main/C++/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/sudhanshuranja/LeetCode/tree/main/Java/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sudhanshuranja/LeetCode/tree/main/JavaScript/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
